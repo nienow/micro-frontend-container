@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/micro-frontend-container/static/js/main.84669f38.js",
+    "index.html": "/micro-frontend-container/index.html",
+    "main.84669f38.js.map": "/micro-frontend-container/static/js/main.84669f38.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.84669f38.js"
+  ]
+}
